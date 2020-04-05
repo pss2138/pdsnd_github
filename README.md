@@ -21,3 +21,9 @@ Look out the main definition first.
 
 ###Change
 Anyone can try editing the code.
+
+###reference
+Ask to the owner directly.
+
+###reference 2
+Or ask to Udacity.
